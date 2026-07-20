@@ -53,3 +53,13 @@ button:hover{
     background:#2563eb;
 
 }
+body{
+    margin: 0;
+    background:black;
+    background-image: url("galaxy.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color:white;
+}
